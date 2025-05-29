@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Thu, 29 May 2025 12:09:02 -0400</dateCreated>
+  </head>
+  <body>
+    <outline text="Hacking Writeups">
+      <outline text="Haircutfish" type="rss" xmlUrl="https://haircutfish.com/feed.xml" htmlUrl="https://haircutfish.github.io/" description="TryHackMe Write-Up | PowerShell | CyberSecurity"/>
+    </outline>
+    <outline text="Hardware">
+      <outline text="Liliputing" type="rss" xmlUrl="https://liliputing.com/feed/" htmlUrl="https://liliputing.com/"/>
+    </outline>
+    <outline text="News Sites">
+      <outline text="2.5 Admins" type="rss" xmlUrl="https://2.5admins.com/feed/podcast" htmlUrl="https://2.5admins.com/" description="2.5 Admins is a podcast featuring two sysadmins called Allan Jude and Jim Salter, and a producer/editor who can just about configure a Samba share called Joe Ressington. Every week we get together, talk about recent tech news, and answer some of your admin-related questions."/>
+      <outline text="Better Offline Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss" htmlUrl="https://www.iheart.com/podcast/150284547" description="&lt;p&gt;Better Offline is a weekly show exploring the tech industry’s influence and manipulation of society - and interrogating the growth-at-all-costs future that tech’s elite wants to build. &lt;/p&gt;&#13;&#10;&lt;p&gt;Combining narrative-form storytelling, one-on-one interviews and panel-based discussions, Better Offline cuts through the buzzwords and obfuscation of the tech industry, investigating and evaluating the schemes and scams of everyone from cryptocurrency scumbags to the greediest of the venture capital elite. Tech industry veteran Ed Zitron and a dynamic coterie of guests will help listeners understand the who, how and why of how tech’s most powerful players are changing the world - for better or for worse.&lt;/p&gt;"/>
+      <outline text="BleepingComputer" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/" description="BleepingComputer - All Stories"/>
+      <outline text="Blog – Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com/" description="Fresh hacks every day"/>
+      <outline text="Cisco Talos Blog" type="rss" xmlUrl="https://blog.talosintelligence.com/rss/" htmlUrl="https://blog.talosintelligence.com/" description="Talos intelligence and world-class threat research team better protects you and your organization against known and emerging cybersecurity threats."/>
+      <outline text="Citation Needed" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/" description="A critical look at the cryptocurrency industry and the broader technology world."/>
+      <outline text="DataBreaches.net" type="rss" xmlUrl="https://databreaches.net/feed/" htmlUrl="https://www.databreaches.net/" description="The Office of Inadequate Security"/>
+      <outline text="DoublePulsar - Kevin Beaumont @GossiTheDog" type="rss" xmlUrl="https://doublepulsar.com/feed" htmlUrl="https://doublepulsar.com/?source=rss----8343faddf0ec---4" description="Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. - Medium"/>
+      <outline text="Google Online Security Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/" description="The latest news and insights from Google on security and safety on the Internet."/>
+      <outline text="It's FOSS" type="rss" xmlUrl="https://itsfoss.com/rss/" htmlUrl="https://itsfoss.com/" description="Making You a Better Linux User"/>
+      <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/" description="In-depth security news and investigation"/>
+      <outline text="Lawrence Systems Email Newsletter" type="rss" xmlUrl="https://us8.campaign-archive.com/feed?u=686728f858576ae4cd7b33bde&amp;id=4cdcfbadcc" htmlUrl="https://us8.campaign-archive.com/feed?u=686728f858576ae4cd7b33bde&amp;id=4cdcfbadcc"/>
+      <outline text="Lawrencesystems Reddit" type="rss" xmlUrl="https://www.reddit.com/.rss?feed=1760a98db8f27b2f0880710acdbffc7e61a435b9&amp;user=lawrencesystems" htmlUrl="https://www.reddit.com/?feed=1760a98db8f27b2f0880710acdbffc7e61a435b9&amp;user=lawrencesystems" description="Lawrencesystems Reddit"/>
+      <outline text="Pluralistic: Daily links from Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/" htmlUrl="https://pluralistic.net/" description="No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period."/>
+      <outline text="Techdirt" type="rss" xmlUrl="https://www.techdirt.com/feed/" htmlUrl="https://www.techdirt.com/"/>
+      <outline text="The DFIR Report" type="rss" xmlUrl="https://thedfirreport.com/feed/" htmlUrl="https://thedfirreport.com/" description="Real Intrusions by Real Attackers, The Truth Behind the Intrusion"/>
+      <outline text="The Register" type="rss" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis"/>
+      <outline text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com/" description="The First Stop For Security News"/>
+      <outline text="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/" description="Unsupervised Learning is about ideas and trends in Cybersecurity, National Security, AI, Technology, and Culture—and how best to upgrade ourselves to be ready for what's coming."/>
+    </outline>
+    <outline text="Reddit">
+      <outline text="homelab subreddits curated by /u/lawrencesystems" type="rss" xmlUrl="https://www.reddit.com/user/lawrencesystems/m/homelab/.rss" htmlUrl="https://www.reddit.com/user/lawrencesystems/m/homelab/"/>
+      <outline text="linux subreddits curated by /u/lawrencesystems" type="rss" xmlUrl="https://www.reddit.com/user/lawrencesystems/m/linux/.rss" htmlUrl="https://www.reddit.com/user/lawrencesystems/m/linux/"/>
+      <outline text="support subreddits curated by /u/lawrencesystems" type="rss" xmlUrl="https://www.reddit.com/user/lawrencesystems/m/support/.rss" htmlUrl="https://www.reddit.com/user/lawrencesystems/m/support/"/>
+    </outline>
+    <outline text="YouTube">
+      <outline text="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
+      <outline text="Craft Computing" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ" htmlUrl="https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ"/>
+      <outline text="Crosstalk Solutions" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVS6ejD9NLZvjsvhcbiDzjw" htmlUrl="https://www.youtube.com/channel/UCVS6ejD9NLZvjsvhcbiDzjw"/>
+      <outline text="Jeff Geerling" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg" htmlUrl="https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg"/>
+      <outline text="Lawrence Systems" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ" htmlUrl="https://www.youtube.com/channel/UCHkYOD-3fZbuGhwsADBd9ZQ"/>
+      <outline text="Learn Linux TV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA" htmlUrl="https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA"/>
+      <outline text="Level1Linux" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w" htmlUrl="https://www.youtube.com/channel/UCOWcZ6Wicl-1N34H0zZe38w"/>
+      <outline text="Level1Techs" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ" htmlUrl="https://www.youtube.com/channel/UC4w1YQAJMWOz4qtxinq55LQ"/>
+      <outline text="Null Byte" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgTNupxATBfWmfehv21ym-g" htmlUrl="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"/>
+      <outline text="Seytonic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6xlqxSY3gGur4PkGPEUeA" htmlUrl="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA"/>
+      <outline text="Technology Connections" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" htmlUrl="https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+      <outline text="Technology Connextras" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClRwC5Vc8HrB6vGx6Ti-lhA" htmlUrl="https://www.youtube.com/channel/UClRwC5Vc8HrB6vGx6Ti-lhA"/>
+    </outline>
+  </body>
+</opml>
