@@ -29,7 +29,6 @@
       <outline text="Techdirt" type="rss" xmlUrl="https://www.techdirt.com/feed/" htmlUrl="https://www.techdirt.com/"/>
       <outline text="The DFIR Report" type="rss" xmlUrl="https://thedfirreport.com/feed/" htmlUrl="https://thedfirreport.com/" description="Real Intrusions by Real Attackers, The Truth Behind the Intrusion"/>
       <outline text="The Register" type="rss" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/" description="Biting the hand that feeds IT — Enterprise Technology News and Analysis"/>
-      <outline text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com/" description="The First Stop For Security News"/>
       <outline text="Unsupervised Learning" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml" htmlUrl="https://danielmiessler.com/" description="Unsupervised Learning is about ideas and trends in Cybersecurity, National Security, AI, Technology, and Culture—and how best to upgrade ourselves to be ready for what's coming."/>
     </outline>
     <outline text="Reddit">
